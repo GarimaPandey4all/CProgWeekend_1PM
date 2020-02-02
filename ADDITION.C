@@ -3,7 +3,7 @@
 
 int main()
 {
-   int a, b, c;
+   int a, b, c, d;
 
    clrscr();   // Clear Screen
 
@@ -17,7 +17,10 @@ int main()
 
    printf("Addition of Two numbers is:%d", c);
 
-   //getch();   //get character
+  //printf("Enter value for d:");
+   //scanf("%d", &d);
+
+   getch();   //get character
 
    return 0;
 }
