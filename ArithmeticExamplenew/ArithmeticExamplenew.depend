@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581286881 source:e:\training\cprograms\arithmeticexamplenew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
