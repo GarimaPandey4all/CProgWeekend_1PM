@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581889220 source:e:\training\cprograms\evenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+
