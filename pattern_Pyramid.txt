@@ -1,0 +1,17 @@
+				
+				
+				n      j=9
+	i=5			*
+			   ***
+			  *****
+			 *******
+			*********
+			
+			3 rows 5 columns
+			4 rows 7 columns
+			5 rows 9 columns
+			
+			n
+			i=5=n
+			j=2n-1= 10 -1=9
+			j=6-1= 5
