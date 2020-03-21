@@ -1,0 +1,27 @@
+int b; //normal variable //value store
+
+int *a; //pointer variable//address variable//indirection operator
+
+a = &b; //&- address of 
+
+a-->address of b-->value of b 
+
+int *a = 5; //wrong way
+
+int *a; //asterisk//pointer variable
+
+int *a = &b; //declaration and initialization
+
+a = &b; //address of b assign to a(pointer variable)
+
+*a; //derefence operator
+
+printf("Address of a:", a); //address of b
+
+printf("Value of a:", *a); //dereferencing  //value of b
+
+
+int *a = &b; //declaration and initialization
+
+int *a = NULL; //NULL = 0
+
