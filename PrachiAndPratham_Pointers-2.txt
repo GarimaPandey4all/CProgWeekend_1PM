@@ -1,0 +1,34 @@
+const int a = 10;
+
+const int *pvalue = &a; //pointer to a constant
+						//value can't be changed
+						
+*pvalue = 20; //error
+
+a = 20; //okay
+
+int b = 30;
+
+pvalue = &b; //Okay
+
+//Constant Pointer
+//address can't be changed
+
+int const* pvalue = &a;
+
+*pvalue = 20; //Okay
+
+pvalue = &b; //error
+
+
+//value and address both will be changeg
+
+const int a = 10;
+
+const int const* pvalue = &a;
+
+*pvalue = 20; //error
+
+pvalue = &b; //error
+
+a = 30; //error
