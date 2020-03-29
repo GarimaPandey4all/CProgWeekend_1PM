@@ -1,0 +1,9 @@
+int array[5];
+
+int *parray = NULL;
+
+parray  = &array[0];
+
+or
+
+parray = array;
